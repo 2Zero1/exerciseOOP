@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ScreenTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-04-29T10:38:28" hostname="iyeonghan-ui-MacBook-Pro.local" time="0.026">
+  <properties/>
+  <testcase name="calculate fee applied third sequence policy()" classname="ScreenTest" time="0.026"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
